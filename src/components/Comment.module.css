@@ -1,3 +1,8 @@
+.blocks {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 150px 0 150px;
+}
 .Text {
 	width: 100px;
 	margin-top: 20px;
